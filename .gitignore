@@ -1,0 +1,10 @@
+build/
+.idea/
+*.iml
+target/
+.settings/
+.project
+*.swp
+*_deploy.sh
+.DS_Store
+
